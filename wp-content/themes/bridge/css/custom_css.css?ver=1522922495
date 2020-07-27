@@ -1,0 +1,99 @@
+
+
+.side_menu_button>a.search_button {
+    vertical-align: top;
+}
+.content .container .container_inner.page_container_inner, .full_page_container_inner {
+padding: 0 0 0;
+}
+.white-text {
+    color: #ffffff;
+}
+.footer_top .q_social_icon_holder i.simple_social, .footer_top .q_social_icon_holder span.simple_social {
+    color: #0095da;
+}
+.footer_top .q_social_icon_holder i.simple_social, .footer_top .q_social_icon_holder span.simple_social {
+    color: #0095da;
+}
+.separator.small {
+ height: 6px; 
+}
+.q_list.circle ul>li, .q_list.number ul>li {
+    margin: 0 0 12px;
+    padding: 0 0 0 22px;
+    color: #333333;
+}
+.q_accordion_holder.accordion .ui-accordion-header .accordion_mark {
+border: none;
+}
+.q_accordion_holder.accordion .ui-accordion-header.ui-state-active .accordion_mark {
+background-color: #f8e100;
+}
+.q_accordion_holder.accordion .ui-accordion-header, .q_accordion_holder.accordion.with_icon .ui-accordion-header {
+font-size: 17px !important;
+text-transform: none;
+font-weight: 400;
+color: #333333;
+}
+.q_accordion_holder.accordion .ui-accordion-header .accordion_mark_icon {
+width: 43px;
+height: 43px;
+}
+.q_accordion_holder.accordion h5.ui-accordion-header {
+padding-top: 5px;
+}
+.qode-accordion-holder .qode-title-holder .qode-tab-title span.qode-tab-title-inner {
+padding: 0px;
+}
+.qode-accordion-holder .qode-title-holder .qode-tab-title {
+height: 40px;
+}
+.blog_holder article .post_text h4 .date, .blog_holder article .post_text .post_info {
+display: none;
+}
+.blog_holder article {
+margin: 20px 0 0;
+}
+.qode_content_slider .caroufredsel-direction-nav a, 
+.qode_content_slider .flex-direction-nav a {
+    top: 0 !important;
+}
+.qode_content_slider .caroufredsel-direction-nav a:hover i, 
+.qode_content_slider .flex-direction-nav a:hover i {
+    color: #00b066 !important;
+}    
+.qode_content_slider .caroufredsel-direction-nav a i, 
+.qode_content_slider .flex-direction-nav a i {
+    color: #0095da !important;
+    font-size: 40px;
+}    
+.qode_content_slider.control_nav_justified .flex-control-nav li a {
+    background-color: #f8e100 !important;
+}
+.qode_content_slider.control_nav_justified .flex-control-nav li a:after {
+    background-color: #ffffff !important;
+}
+.qode-type1-gradient-left-to-right, 
+.qode-type1-gradient-left-to-right-after:after {
+    background: #00b066 !important;
+}
+.qode_carousels .slides>li {
+    margin: 0 20px 0 0;
+}
+.q_icon_list .qode-ili-icon-holder, .q_icon_list i {
+    margin: 0 30px 0 0;
+}
+
+
+@media only screen and (max-width: 
+1000px) {
+  .q_tabs.boxed .tabs-nav li.active a {    
+    border: none !important;
+  }
+  .q_tabs.boxed .tabs-container {    
+    border: none !important;
+  }
+  .q_accordion_holder, .q_tabs {    
+    visibility: visible !important;
+  }
+}
